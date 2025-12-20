@@ -2,6 +2,8 @@
 
 This repository contains an implementation of the isotopologue calculations and data culling methodology presented in "Measuring carbon isotopic signatures of mass spectrometric fragment ions of phytane using ultra high resolution orbitrap mass spectrometry". It contains a .R scrpt which contains all functions used and can be run to reproduce the major results of the paper. 
 
+Release DOI 10.5281/zenodo.17999474
+
 # files
 
 - isotopologs.tsv -- text file used to extract .isox files from RAW aquisition files using IsoX. File contains exact masses of target isotopologues of intesest
